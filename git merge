@@ -1,0 +1,19 @@
+[1mdiff --git a/Rectangle_Area_calculator.py b/Rectangle_Area_calculator.py[m
+[1mindex 717c717..98de85f 100644[m
+[1m--- a/Rectangle_Area_calculator.py[m
+[1m+++ b/Rectangle_Area_calculator.py[m
+[36m@@ -1,6 +1,7 @@[m
+[31m-# Exercise 1 Rectangle Area calculator[m
+[32m+[m[32m# Exercise 1 Rectangle Area calculato[m
+ [m
+[31m-# length = float(input("Enter the length of the rectangle: "))[m
+[31m-# width = float(input("Enter the width of the rectangle: "))[m
+[31m-# area = length * width[m
+[31m-# print("The area of the rectangle is:")[m
+\ No newline at end of file[m
+[32m+[m[32mlength = float(input("Enter the length of the rectangle: "))[m
+[32m+[m[32mwidth = float(input("Enter the width of the rectangle: "))[m
+[32m+[m[32marea = length * width[m
+[32m+[m[32mprint("The area of the rectangle is:")[m
+[32m+[m[32m# hi[m
+\ No newline at end of file[m
